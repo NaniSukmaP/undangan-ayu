@@ -98,21 +98,21 @@ p {
 }
 
 .btn-success {
-  background: #58ca7e;
+  background: #997950;
   color: #fff;
-  border: 2px solid #58ca7e;
+  border: 2px solid #997950;
 }
 .btn-success:hover, .btn-success:focus, .btn-success:active {
-  background: #45c46f !important;
-  border-color: #45c46f !important;
+  background: #b69c79 !important;
+  border-color: #b69c79 !important;
 }
 .btn-success.btn-outline {
   background: transparent;
-  color: #58ca7e;
-  border: 2px solid #58ca7e;
+  color: #997950;
+  border: 2px solid #997950;
 }
 .btn-success.btn-outline:hover, .btn-success.btn-outline:focus, .btn-success.btn-outline:active {
-  background: #58ca7e;
+  background: #b69c79;
   color: #fff;
 }
 
