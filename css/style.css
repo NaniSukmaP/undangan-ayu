@@ -8,7 +8,7 @@
 
 body {
   font-family: "Merriweather", serif;
-  font-size: 18px;
+  font-size: 14px;
   font-weight: 300;
   line-height: 2;
   color: #5e493a;
@@ -192,7 +192,7 @@ p {
   background: transparent;
   border: 2px solid rgba(0, 0, 0, 0.1);
   height: 54px;
-  font-size: 18px;
+  font-size: 14px;
   font-weight: 300;
 }
 .form-control:active, .form-control:focus {
@@ -226,7 +226,7 @@ p {
   margin: 0;
   padding: 0;
   font-family: "Playfair Display", serif;
-  font-size: 150px;
+  font-size: 50px;
   font-weight: 700;
   font-style: italic;
   color: #fff;
@@ -236,7 +236,7 @@ p {
 }
 @media screen and (max-width: 992px) {
   #fh5co-home .flexslider .fh5co-text h1 {
-    font-size: 50px;
+    font-size: 40px;
   }
 }
 #fh5co-home .flexslider .fh5co-text h2 {
@@ -244,7 +244,7 @@ p {
   padding: 0;
   font-family: "Merriweather", serif;
   font-weight: 300;
-  font-size: 40px;
+  font-size: 30px;
   letter-spacing: 2px;
   color: #fff;
   -webkit-transition: 0.3s;
@@ -253,7 +253,7 @@ p {
 }
 @media screen and (max-width: 768px) {
   #fh5co-home .flexslider .fh5co-text h2 {
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 #fh5co-home .flexslider .fh5co-text h2 span {
@@ -349,7 +349,7 @@ p {
 .fh5co-main-nav .fh5co-logo {
   text-align: center;
   width: 19.33%;
-  font-size: 40px;
+  font-size: 30px;
   font-family: "Playfair Display", serif;
   font-weight: 700;
   font-style: italic;
@@ -365,7 +365,7 @@ p {
 }
 
 .fh5co-heading .heading {
-  font-size: 50px;
+  font-size: 40px;
   font-style: italic;
   position: relative;
   padding-bottom: 30px;
@@ -373,7 +373,7 @@ p {
 }
 @media screen and (max-width: 768px) {
   .fh5co-heading .heading {
-    font-size: 30px;
+    font-size: 24px;
   }
 }
 .fh5co-heading .heading:after {
@@ -387,13 +387,13 @@ p {
   margin-left: -20px;
 }
 .fh5co-heading .sub-heading {
-  font-size: 20px;
+  font-size: 16px;
   line-height: 1.5;
   margin-bottom: 30px;
 }
 @media screen and (max-width: 768px) {
   .fh5co-heading .sub-heading {
-    font-size: 18px;
+    font-size: 14px;
   }
 }
 
@@ -456,7 +456,7 @@ p {
 #fh5co-about .fh5co-text p span.firstcharacter {
   float: left;
   color: #903;
-  font-size: 75px;
+  font-size: 50px;
   line-height: 60px;
   padding-top: 4px;
   padding-right: 10px;
@@ -493,7 +493,7 @@ p {
   }
 }
 #fh5co-sayings .flexslider .slides li {
-  font-size: 40px;
+  font-size: 30px;
   line-height: 1.5;
 }
 #fh5co-sayings .flexslider .slides li blockquote {
@@ -506,22 +506,22 @@ p {
   }
 }
 #fh5co-sayings .flexslider .slides li blockquote p {
-  font-size: 24px;
+  font-size: 20px;
   line-height: 1.5;
 }
 @media screen and (max-width: 768px) {
   #fh5co-sayings .flexslider .slides li blockquote p {
-    font-size: 20px;
+    font-size: 16px;
     line-height: 1.5;
   }
 }
 #fh5co-sayings .flexslider .slides li blockquote p.quote-author {
-  font-size: 20px;
+  font-size: 18px;
   color: gray;
 }
 @media screen and (max-width: 768px) {
   #fh5co-sayings .flexslider .slides li blockquote p.quote-author {
-    font-size: 18px;
+    font-size: 14px;
   }
 }
 #fh5co-sayings .flexslider .flex-control-paging {
@@ -591,7 +591,7 @@ p {
   -moz-flex-wrap: wrap;
 }
 #fh5co-featured .fh5co-grid h2 {
-  font-size: 20px;
+  font-size: 16px;
   margin-bottom: 0;
 }
 #fh5co-featured .fh5co-grid p {
@@ -600,7 +600,7 @@ p {
   color: #222;
 }
 #fh5co-featured .fh5co-grid .pricing {
-  font-size: 32px;
+  font-size: 26px;
   display: block;
   padding-top: 20px;
 }
@@ -878,7 +878,7 @@ p {
   width: 75%;
   float: left;
   position: relative;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 1.5;
 }
 #fh5co-menus .fh5co-food-menu ul li .fh5co-food-desc > div p {
@@ -887,14 +887,14 @@ p {
 #fh5co-menus .fh5co-food-menu ul li .fh5co-food-desc > div h3 {
   margin: 0 0 10px 0;
   padding: 0;
-  font-size: 20px;
+  font-size: 16px;
   color: #000;
 }
 #fh5co-menus .fh5co-food-menu ul li .fh5co-food-pricing {
   float: right;
   width: 20%;
   text-align: right;
-  font-size: 20px;
+  font-size: 16px;
   color: #fb6e14;
 }
 
@@ -986,7 +986,7 @@ p {
   margin-left: -20px;
 }
 #fh5co-events .fh5co-event p {
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.8;
 }
 #fh5co-events .fh5co-event p:last-child {
@@ -1066,7 +1066,7 @@ p {
   background: rgba(0, 0, 0, 0.9);
   padding: 1em 0;
   z-index: 1;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 1.5;
   color: rgba(255, 255, 255, 0.5);
 }
@@ -1093,11 +1093,11 @@ p {
   display: inline;
 }
 .fh5co-social li a {
-  font-size: 30px;
+  font-size: 24px;
   padding: 10px;
 }
 .fh5co-social li a i {
-  font-size: 30px;
+  font-size: 24px;
 }
 .fh5co-social li a:hover, .fh5co-social li a:active, .fh5co-social li a:focus {
   outline: none;
@@ -1324,7 +1324,7 @@ p {
   margin-bottom: 30px;
   font-style: italic;
   color: #fff;
-  font-size: 40px;
+  font-size: 30px;
   text-align: center;
   padding-top: 110px;
 }

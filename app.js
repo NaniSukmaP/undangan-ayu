@@ -21,14 +21,7 @@ app.get('/:namaTamu', (req, res) => {
   console.log(nama);
   res.render('depan' , {tamuAyu : nama});
 });
-
-app.post('/', (req, res) => {
-//   var num1= Number(req.body.num1);
-//   var num2= Number(req.body.num2);
-//   var result = num1+num2;
-//   res.send("The result is " + result);
-});
  
-app.listen(process.env.PORT || 3000, () => {
+app.listen(process.env.PORT || port, () => {
   console.log(`Example app listening on port ${port}`)
 });
