@@ -42,6 +42,17 @@ a:hover, a:focus, a:active {
   color: #e2d5cd;
 }
 
+.heading {
+  font-size: 40px;
+  color: #f5f5f5;
+  font-style: italic;
+  position: relative;
+}
+.sub-heading {
+  color: #a99c92;
+  font-size: 14px;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Playfair Display", serif;
   color: #000;

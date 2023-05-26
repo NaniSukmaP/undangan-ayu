@@ -613,11 +613,9 @@ const myAudio = new Audio("sounds/sounds.mp3");
 	if (myAudio.paused == false) {
 		myAudio.pause();
 		$("#my_image").attr("src","images/pause.png");
-		alert('music paused');
 	} else {
 		myAudio.play();
 		$("#my_image").attr("src","images/play-audio.png");
-		alert('music playing');
 	}
   }); 
 
