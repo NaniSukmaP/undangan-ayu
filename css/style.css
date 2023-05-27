@@ -19,8 +19,8 @@ body.fh5co-overflow {
 .malereang{
   background: transparent;
   border: none;
-  width: 24px;
-  height: 24px;
+  width: 32px;
+  height: 32px;
   position: fixed;
   top: 20px;
   left: 20px;
@@ -43,7 +43,7 @@ a:hover, a:focus, a:active {
 }
 
 .heading {
-  font-size: 40px;
+  font-size: 30px !important;
   color: #f5f5f5;
   font-style: italic;
   position: relative;
