@@ -19,8 +19,8 @@ body.fh5co-overflow {
 .malereang{
   background: transparent;
   border: none;
-  width: 32px;
-  height: 32px;
+  width: 40px;
+  height: 40px;
   position: fixed;
   top: 20px;
   left: 20px;
@@ -614,6 +614,7 @@ p {
   font-size: 26px;
   display: block;
   padding-top: 20px;
+  color: #5e493a;
 }
 #fh5co-featured .fh5co-grid .pricing:before {
   content: "";
