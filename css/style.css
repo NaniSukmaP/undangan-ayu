@@ -19,8 +19,8 @@ body.fh5co-overflow {
 .malereang{
   background: transparent;
   border: none;
-  width: 40px;
-  height: 40px;
+  width: 50px;
+  height: auto;
   position: fixed;
   top: 20px;
   left: 20px;
